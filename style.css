@@ -1,0 +1,85 @@
+.calcu{
+    background-color: rgb(246, 18, 18);
+    height: 500px;
+    width:300px;
+    margin: auto;
+    justify-content: center;
+    justify-items: baseline;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 20px #4c5a52;
+    padding: 1px;
+    border-radius: 12px;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100vh;
+    
+    background:linear-gradient(to right,#00AAFF,#00ff6c) ;
+}
+.container h4{
+text-align: center;
+font-size: 30px;
+color: #e7e9e8;
+font-family: cursive
+}
+
+input[type=text]{
+    /* position: relative;
+    left: 212px; */
+    margin:   0px;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px #dfb7b7 solid; */
+    width:288px;
+    height: 130px;
+    text-align: right;
+    border-top-right-radius:   11px;
+    border-top-left-radius:   11px;
+    padding: 2px;
+    letter-spacing: 2.5;
+    letter-spacing: 2.5px;
+    line-height: 5.5px;
+    overflow: hidden;
+    background-color: rgb(253, 247, 249);
+    color: gray;
+    font-size: 22px;
+    font-weight: 100;
+}
+table{
+    background-color: rgba(129, 168, 147, 0.856);
+    justify-content: center;
+    margin: 0px;
+    width: 296px;
+    position: relative;
+    top: 0px;
+    height: 359px;
+    border-radius: 12px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+
+    padding: 23px;
+}
+table button{
+    
+    width: 47px;
+    height: 46px;
+    border-radius: 22px;
+    padding: 6px;
+    margin: 3px;
+    font-size: 30px;
+    text-align: center;
+}
+h6{
+    text-align: center;
+    color: #3a3832;
+    /* margin: 13px; */
+    padding: 5px;
+    font-size: larger;
+    font-style:oblique;
+    font-family: sans-serif;
+}
+
